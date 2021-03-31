@@ -1,6 +1,9 @@
-Please watch the video to get a clear view
-https://youtu.be/pnwy9W4wX9A
+Please watch the video to get a clear view [Concern-video-to-fix-kali-linux-update-error](https://youtu.be/pnwy9W4wX9A)
 
+You can also check the video to [update the Kali Linux repositories](https://youtu.be/GRz_fk_Uf5k) with various options
+
+
+ERROR 
 E: Failed to fetch http://http.kali.org/kali/dists/kali-rolling/main/Contents-amd64 | Kali Linux Error Solved
 
 In this video I will give the solution for the following error "Unable to fetch some archives,maybe run apt-get update or try with --fix-missing?".
@@ -26,8 +29,7 @@ Update and upgrade
 Step 5 see Os version and details
 <pre>$ cat /etc/os-release</pre>
 
-Description:
-If you need to ask, then Kali Linux is not the right distribution for you.
+If you need to ask about such things on google, then Kali Linux is not the right distribution for you.
 
 Kali Linux is a distribution for professional penetration testers who are already very familiar with Linux. It is meant to be used from a USB dongle for penetration testing. It can be installed, but it is not really meant to be. It is not meant for general use (even by professional penetration testers) such as Internet browsing, word processing, gaming, development, etc.
 
@@ -39,3 +41,5 @@ Since Kali is for experts, if you ask about Kali, people assume that you're an e
 
 
 With any distribution, even distributions targeted for beginners, you can learn by looking under the hood. The difference is that with easy-to-use distributions, you can install first, and then explore to learn.
+
+Take care of yours.
