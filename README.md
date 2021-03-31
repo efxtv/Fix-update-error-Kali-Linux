@@ -15,7 +15,7 @@ Remove every thing from sources.list
 
 Step3
 Add lines to sources.list
-<pre>deb https://http.kali.org/kali kali-rolling main non-free contrib</pre>
+<pre>#deb https://http.kali.org/kali kali-rolling main non-free contrib</pre>
 <pre>deb-src https://http.kali.org/kali kali-rolling main non-free contrib</pre>
 
 Step 4
